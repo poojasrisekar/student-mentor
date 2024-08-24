@@ -1,0 +1,20 @@
+{
+  "name": "mentorandstudent",
+  "version": "1.0.0",
+  "description": "this c",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "poojoo.shree@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.3",
+    "nodejs": "^0.0.0",
+    "nodemon": "^3.1.4",
+    "react-router-dom": "^6.25.1"
+  }
+}
